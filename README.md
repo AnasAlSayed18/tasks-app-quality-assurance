@@ -56,13 +56,13 @@ Our team applied diverse methodologies and tools including **JUnit**, **Appium**
 ## 📸 Screenshots
 
 ### JUnit Unit Test Results
-![JUnit Results](https://github.com/AnasAlSayed18/img/blob/main/junit-results.png)
+![JUnit Results](https://github.com/AnasAlSayed18/img/blob/07b99197c051797d732b9daff2fc39df0e3f6721/qa1.png)
 
 ### Appium Automated Testing
-![Appium](https://github.com/AnasAlSayed18/img/blob/main/appium-test.png)
+![Appium](https://github.com/AnasAlSayed18/img/blob/07b99197c051797d732b9daff2fc39df0e3f6721/qa2.png)
 
 ### JMeter Performance Test
-![JMeter](https://github.com/AnasAlSayed18/img/blob/main/jmeter-performance.png)
+![JMeter](https://github.com/AnasAlSayed18/img/blob/07b99197c051797d732b9daff2fc39df0e3f6721/qa3.png)
 
 ---
 
